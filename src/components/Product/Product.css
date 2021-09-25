@@ -1,0 +1,9 @@
+.porduct{
+    display: flex;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+}
+.product-name{
+    color: rgb(220, 238, 232);
+    padding-left: 20px;
+}
